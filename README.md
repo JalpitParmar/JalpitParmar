@@ -6,9 +6,13 @@ I'm Jalpit Parmar, a passionate developer with a focus on creating dynamic and i
 
 I am a developer with experience in various programming languages and technologies. I enjoy building applications that solve real-world problems. Currently, I am exploring new frameworks and honing my skills in web and mobile development. Connect with me to collaborate on exciting projects!
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-java,php,react,nextjs,cs,mysql,mongodb,androidstudio
+- **Languages:** Java, PHP, C#  
+- **Frontend:** React, Next.js, HTML, CSS  
+- **Backend:** PHP, MySQL, MongoDB  
+- **Mobile:** Android Studio  
+- **Tools:** Git, GitHub, XAMPP 
 
 ## Top Projects
 
@@ -17,3 +21,9 @@ java,php,react,nextjs,cs,mysql,mongodb,androidstudio
 - [Android-](https://github.com/JalpitParmar/Android-) - A mobile application project. Stars: 0, Language: N/A
 - [earth-v1.0](https://github.com/JalpitParmar/earth-v1.0) - A project that showcases Earth-related data visualization. Stars: 0, Language: Java
 - [Real-Estate-Management-System-with-forntend](https://github.com/JalpitParmar/Real-Estate-Management-System-with-forntend) - Frontend for the real estate management system. Stars: 0, Language: HTML
+\
+## 📫 Connect With Me
+
+- GitHub: [@JalpitParmar](https://github.com/JalpitParmar)
+
+⭐ *Feel free to check out my repositories and collaborate!*
