@@ -24,6 +24,8 @@ I am a developer with experience in various programming languages and technologi
 \
 ## 📫 Connect With Me
 
-- GitHub: [@JalpitParmar](https://github.com/JalpitParmar)
+- 📧 Email: **jalpitparmar@gmail.com**
+- 💼 LinkedIn: [Jalpit Parmar](https://www.linkedin.com/in/jalpit-parmar/)
+- 🐙 GitHub: [@JalpitParmar](https://github.com/JalpitParmar)
 
 ⭐ *Feel free to check out my repositories and collaborate!*
