@@ -8,7 +8,7 @@ I am a developer with experience in various programming languages and technologi
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Java, PHP, C#  
+- **Languages:** Java, PHP, C# , js
 - **Frontend:** React, Next.js, HTML, CSS  
 - **Backend:** PHP, MySQL, MongoDB  
 - **Mobile:** Android Studio  
