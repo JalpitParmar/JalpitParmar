@@ -24,7 +24,7 @@ I am a developer with experience in various programming languages and technologi
 \
 ## 📫 Connect With Me
 
-- 📧 Email: **jalpitparmar@gmail.com**
+- 📧 Email: **jalpitparmar646@gmail.com**
 - 💼 LinkedIn: [Jalpit Parmar](https://www.linkedin.com/in/jalpit-parmar/)
 - 🐙 GitHub: [@JalpitParmar](https://github.com/JalpitParmar)
 
