@@ -11,7 +11,8 @@ I am a developer with experience in various programming languages and technologi
 - **Languages:** Java, PHP, C# , js
 - **Frontend:** React, Next.js, HTML, CSS  
 - **Backend:** PHP, MySQL, MongoDB  
-- **Mobile:** Android Studio  
+- **Mobile:** Android Studio
+- **Game dev:** Unity     
 - **Tools:** Git, GitHub, XAMPP 
 
 ## Top Projects
