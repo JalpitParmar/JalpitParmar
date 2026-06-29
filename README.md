@@ -1,33 +1,105 @@
-## Hi there! 👋
+# Hi there 👋, I'm Jalpit Parmar
 
-I'm Jalpit Parmar, a passionate developer with a focus on creating dynamic and innovative applications. I love turning ideas into reality and continuously seek to learn and grow in the world of technology.
+🎓 MCA Student at Marwadi University
+🤖 AI/ML & Computer Vision Enthusiast
+💻 Full Stack Developer | Python | Flask | TensorFlow
 
-## About Me
+---
 
-I am a developer with experience in various programming languages and technologies. I enjoy building applications that solve real-world problems. Currently, I am exploring new frameworks and honing my skills in web and mobile development. Connect with me to collaborate on exciting projects!
+## 🚀 About Me
 
-## 🛠️ Skills & Technologies
+I'm passionate about building AI-powered and full-stack applications that solve real-world problems. I enjoy working with Machine Learning, Deep Learning, Computer Vision, and modern web technologies.
 
-- **Languages:** Java, PHP, C# , js , Python
-- **Frontend:** React, Next.js, HTML, CSS, Bootstrap, Tailwind CSS
-- **Backend:** PHP, js
-- **Database:** Mysql, Mongodb
-- **Mobile:** Android Studio
-- **Game dev:** Unity     
-- **Tools:** Git, GitHub, XAMPP 
+Recently, I've been building and deploying AI applications using TensorFlow, Scikit-learn, and Flask while continuously learning new technologies and improving my development skills.
 
-## Top Projects
+---
 
-- [Real-Estate-Management-System](https://github.com/JalpitParmar/Real-Estate-Management-System) - A full-stack real estate property listing web application. Stars: 0, Language: HTML
-- [Movie-Ticket-Booking-System](https://github.com/JalpitParmar/Movie-Ticket-Booking-System) - A web application for booking movie tickets. Stars: 0, Language: JavaScript
-- [Android-](https://github.com/JalpitParmar/Android-) - A mobile application project. Stars: 0, Language: N/A
-- [earth-v1.0](https://github.com/JalpitParmar/earth-v1.0) - A project that showcases Earth-related data visualization. Stars: 0, Language: Java
-- [Real-Estate-Management-System-with-forntend](https://github.com/JalpitParmar/Real-Estate-Management-System-with-forntend) - Frontend for the real estate management system. Stars: 0, Language: HTML
-\
+## 🛠️ Skills
+
+### 💻 Programming Languages
+
+* Python
+* PHP
+* Java
+* JavaScript
+
+### 🤖 AI / Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* CNN
+* NLP
+* TensorFlow
+* Keras
+* Scikit-learn
+* NumPy
+* Pandas
+* Matplotlib
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* Bootstrap
+* Next.js
+* Flask
+* Node.js
+* Express.js
+
+### 🗄️ Databases
+
+* MySQL
+* MongoDB
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* Docker
+* VS Code
+* Google Colab
+* XAMPP
+
+---
+
+## 🚀 Featured Projects
+
+### 🐱 Cat vs Dog Image Classifier
+
+CNN-based image classification web application built with TensorFlow, Keras, and Flask, achieving **99.90% validation accuracy**.
+
+### 🎬 CineMatch – Movie Recommendation System
+
+Content-based recommendation system using TF-IDF, Cosine Similarity, Scikit-learn, and Flask.
+
+### 💰 LoanIQ – Loan Approval Prediction System
+
+Machine learning application using a Stacking Classifier with XGBoost, LightGBM, and Scikit-learn for loan approval prediction.
+
+### 🏠 Real Estate Management System
+
+Full-stack property management web application with user authentication, property listings, search, and admin dashboard.
+
+---
+
+## 📈 Currently Learning
+
+* Advanced Computer Vision
+* Deep Learning
+* AI Model Deployment
+* MLOps
+
+---
+
 ## 📫 Connect With Me
 
-- 📧 Email: **jalpitparmar646@gmail.com**
-- 💼 LinkedIn: [Jalpit Parmar](https://www.linkedin.com/in/jalpit-parmar/)
-- 🐙 GitHub: [@JalpitParmar](https://github.com/JalpitParmar)
+📧 Email: **[jalpitparmar646@gmail.com](mailto:jalpitparmar646@gmail.com)**
 
-⭐ *Feel free to check out my repositories and collaborate!*
+💼 LinkedIn: **https://www.linkedin.com/in/jalpit-parmar-649b032b3/**
+
+🐙 GitHub: **https://github.com/JalpitParmar**
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
